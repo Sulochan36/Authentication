@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion } from "motion/react"
 import { useAuthStore } from "../store/authStore";
 import { formatDate } from "../utils/date";
 
